@@ -1,5 +1,21 @@
 ## Change Log
 
+<a name="4.0.6"></a>
+## [4.0.6](https://www.github.com/cte-dev-github/canary/releases/tag/v4.0.6) (2023-8-17)
+
+### Other
+
+* catch up package reference update (#1) ([b8455d0](https://www.github.com/cte-dev-github/canary/commit/b8455d086385fc65df2fd16bb4006d3a8358f539))
+* Create an auto-deploy file ([fac7978](https://www.github.com/cte-dev-github/canary/commit/fac79788db65a37e751c52721ba62590bd9098fa))
+* Create an auto-deploy file ([ecd3385](https://www.github.com/cte-dev-github/canary/commit/ecd3385bbb1507787980523a82a6a6ab7c90d46b))
+* Unlink the containerApp nvss-canary from this repo ([f9deae8](https://www.github.com/cte-dev-github/canary/commit/f9deae890d28e93fc4f081a06f03d03dc023ba06))
+* Unlink the containerApp nvss-canary-staging from this repo ([1f99298](https://www.github.com/cte-dev-github/canary/commit/1f99298e1144341867f5f3940431878f261d2315))
+* add dependabot (#160) ([b02b46f](https://www.github.com/cte-dev-github/canary/commit/b02b46feff83b5254b5b02a86070d8cb13915ced))
+* bump coverlet.collector from 1.2.0 to 6.0.0 (#162) ([1ffab17](https://www.github.com/cte-dev-github/canary/commit/1ffab17fe544abff467aba7e1d540ef9a1ad4817))
+* bump Microsoft.EntityFrameworkCore.Design from 6.0.5 to 7.0.9 (#161) ([e2a6e6b](https://www.github.com/cte-dev-github/canary/commit/e2a6e6b40908932b192ee1d400b4bd3c4068c813))
+* bump Microsoft.NET.Test.Sdk from 16.5.0 to 17.6.3 (#163) ([6e94f02](https://www.github.com/cte-dev-github/canary/commit/6e94f023a5c35cd87d8da333ae70759a403ddf1a))
+* bump VRDR.Messaging from 4.0.10 to 4.1.2 (#167) ([4d98a5c](https://www.github.com/cte-dev-github/canary/commit/4d98a5c7573cb2c2807134fb212caaf338a2a38b))
+
 <a name="4.0.5"></a>
 ## [4.0.5](https://www.github.com/nightingaleproject/canary/releases/tag/v4.0.5) (2023-8-10)
 
