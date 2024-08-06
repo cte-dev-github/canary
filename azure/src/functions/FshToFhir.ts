@@ -8,7 +8,7 @@ const Handler = async (request: HttpRequest, context: InvocationContext): Promis
         dependencies:[
             {
                 packageId: "hl7.fhir.us.vrdr",
-                version: "current"
+                version: "2.2.0"
             },
             {
                 packageId: "hl7.fhir.us.core",
